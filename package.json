@@ -1,8 +1,8 @@
 {
   "name": "chunked-file-reader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Provides a large file reading as chunked",
-  "main": "index.js",
+  "main": "chunked-file-reader.js",
   "scripts": {
     "lint": "eslint chunked-file-reader.js",
     "doc": "yuidoc",
