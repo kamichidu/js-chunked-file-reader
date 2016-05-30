@@ -1,6 +1,6 @@
 {
   "name": "chunked-file-reader",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Provides a large file reading as chunked",
   "main": "index.js",
   "scripts": {
