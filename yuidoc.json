@@ -1,0 +1,10 @@
+{
+    "name": "ChunkedFileReader for Browser",
+    "description": "",
+    "version": "0.0.0",
+    "url": "https://github.com/kamichidu/js-chunked-file-reader",
+    "options": {
+        "outdir": "./docs",
+        "paths": ["./"]
+    }
+}

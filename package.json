@@ -1,0 +1,25 @@
+{
+  "name": "chunked-file-reader",
+  "version": "0.0.0",
+  "description": "Provides a large file reading as chunked",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint chunked-file-reader.js",
+    "doc": "yuidoc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML5",
+    "FileReader",
+    "Chunk",
+    "Large File"
+  ],
+  "author": "kamichidu <c.kamunagi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^2.11.0",
+    "jasmine": "^2.4.1",
+    "jshint": "^2.9.2",
+    "yuidocjs": "^0.10.1"
+  }
+}

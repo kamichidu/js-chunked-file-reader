@@ -1,0 +1,16 @@
+{
+    "env": {
+        "browser": true
+    },
+
+    "globals": {
+        "module": true,
+        "define": true
+    },
+
+    "rules": {
+        "comma-dangle": "off"
+    },
+
+    "extends": "eslint:recommended"
+}
