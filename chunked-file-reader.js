@@ -71,7 +71,7 @@
      * </ul>
      *
      * @method readChunks
-     * @param input {blob} The Blob (File) object
+     * @param input {Blob} The Blob (File) object
      */
     ChunkedFileReader.prototype.readChunks= function(input){
         var chunkSize= Math.min(this.maxChunkSize, input.size);
